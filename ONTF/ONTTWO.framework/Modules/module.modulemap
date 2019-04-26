@@ -1,0 +1,6 @@
+framework module ONTTWO {
+  umbrella header "ONTTWO.h"
+
+  export *
+  module * { export * }
+}
